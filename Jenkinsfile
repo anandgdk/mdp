@@ -3,7 +3,7 @@ pipeline{
       satges{
         stage("welcome"){
           steps{
-            echo "hi jenkins"
+            echo "hi jenkins.."
             }
            }
          }
